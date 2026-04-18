@@ -43,7 +43,6 @@ ios/build/
 .idea/
 
 # Lock files (optionnel, à garder si travail en équipe)
-# package-lock.json
 # yarn.lock
 
 # Windows Zone.Identifier (IMPORTANT dans ton cas)
